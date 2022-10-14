@@ -1,8 +1,8 @@
+import javax.swing.*;
+//Version 1.0
 public class Main {
-
-
-        System.out.println("Hello world!");
-
+    public static void main(String[] args) {
+        JOptionPane.showMessageDialog(null,"Hello boys");
     }
-
 }
+
